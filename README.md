@@ -1,4 +1,3 @@
 My-JQuery
-
-test
+Basic Messaging service with responsiveness
 =========
